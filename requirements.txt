@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+time
+io 
+matplotlib
+PIL 
