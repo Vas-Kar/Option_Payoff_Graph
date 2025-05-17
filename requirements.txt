@@ -4,4 +4,3 @@ pandas
 time
 io 
 matplotlib
-PIL 
